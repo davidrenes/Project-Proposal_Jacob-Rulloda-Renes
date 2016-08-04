@@ -1,6 +1,6 @@
 # Project-Proposal_Jacob-Rulloda-Renes
 <h1>TITLE: </h1>
-<p>MEMBERS:</p>
+<h3>MEMBERS:</h3>
 <ul>
 <li><p>Jacob, Lanz</p></li>
 <li><p>Rulloda, Lea</p></li>
